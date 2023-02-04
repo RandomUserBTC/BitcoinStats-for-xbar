@@ -26,7 +26,6 @@ As I am a new developer, trying to learn code on my own, I am open to all ideas 
 ## Donate
 
 If you find this project helpful, please consider making a donation! 🧡   
-Every amount will be highly appreciated.
 
 Bitcoin (Segwit):
 
