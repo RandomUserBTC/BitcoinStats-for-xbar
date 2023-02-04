@@ -1,4 +1,4 @@
-#!/Users/RandomUser/.pyenv/versions/3.11.1/bin/python
+#!/usr/bin/python
 #coding=utf-8
 #<xbar.title>Last Bitcoin Block + Mempool Unconfirmed Tx</xbar.title>
 #<xbar.author>RandomUserBTC</xbar.author>
